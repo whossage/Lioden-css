@@ -1,4 +1,4 @@
 body {
-background: url('photo-1446034295857-c39f8844fad4.jpeg') no-repeat center center fixed;
-background-size: cover;
+  background: url('https://images.unsplash.com/photo-1446034295857-c39f8844fad4?auto=format&fit=crop&w=1920&q=80') no-repeat center center fixed;
+  background-size: cover;
 }
